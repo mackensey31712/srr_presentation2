@@ -1,0 +1,12 @@
+altair
+numpy
+pandas
+pydeck
+streamlit
+streamlit_lottie
+pygwalker
+streamlit-aggrid
+plotly
+seaborn
+matplotlib
+st-gsheets-connection
